@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec4b474f-4717-45d4-8f48-2806b76b7b0f": {
+      "ProjectGuid": "ec4b474f-4717-45d4-8f48-2806b76b7b0f",
+      "DisplayName": "LibApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
